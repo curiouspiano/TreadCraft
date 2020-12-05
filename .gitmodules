@@ -1,0 +1,3 @@
+[submodule "TreadmillController"]
+	path = TreadmillController
+	url = https://github.com/curiouspiano/TreadmillController
