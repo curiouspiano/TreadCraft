@@ -1,3 +1,6 @@
 [submodule "TreadmillController"]
 	path = TreadmillController
 	url = https://github.com/curiouspiano/TreadmillController
+[submodule "treadmine"]
+	path = treadmine
+	url = https://github.com/keveloperYT/treadmine
